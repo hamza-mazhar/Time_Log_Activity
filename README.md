@@ -26,7 +26,7 @@ Your app is ready to be deployed!
 
 
 # Tech stack
-Web application based on React (clientside) and Antd (serverside)
+Web application based on React (clientside) and Antd (ui)
 
 # Features
 Time entry
